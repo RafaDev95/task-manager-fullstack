@@ -2,6 +2,6 @@
 
 # Acesso ao projeto
 
-## [🔗 RD95 Logistic](https://task-manager-client-gray.vercel.app/)
+## [🔗 TASK MANAGER](https://task-manager-client-gray.vercel.app/)
 
 ### Explicação e execução do projeto está separado em cada documentação referente ao backend e front end.
